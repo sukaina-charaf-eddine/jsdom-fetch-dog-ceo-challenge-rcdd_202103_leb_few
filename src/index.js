@@ -6,13 +6,12 @@ fetch("imgUrl")
   return response.json();
 })
 .then(function(json){
-  
+
 })
 fetch("breedUrl")
 .then(function(response) {
   return response.json();
 })
 .then(function(json){
-  
-})
 
+})
